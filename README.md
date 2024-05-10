@@ -1,4 +1,4 @@
-# Descryption
+# Description
 This repository contains a C++ program for encrypting and decrypting messages using the Caesar cipher encryption algorithm.
 The program provides a user-friendly interface to input messages, specify encryption keys, and perform encryption and decryption operations.
 Additionally, it offers features such as case conversion, writing encrypted messages to a file, and reading encrypted messages from a file for decryption.
@@ -35,3 +35,4 @@ Additionally, it offers features such as case conversion, writing encrypted mess
 4. File Operations: Utilize file I/O functionality to save encrypted messages to files or read encrypted messages from files for decryption.
 
 # Contributions:
+Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests via GitHub.
